@@ -28,6 +28,7 @@ The repository is organized as follows:
 - `Notebook_final_project_ML.ipynb`: Jupyter Notebook containing the main machine learning code and analysis.
 - `report_final.pdf`: Comprehensive project report detailing the methodology, results, and conclusions.
 - `scrap_all.py`: Python script for web scraping to collect data.
+- `dashboard_forum.py`: Dashboard with the final results.
 
 ## Tasks Overview
 1. **Data Collection**:
